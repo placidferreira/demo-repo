@@ -8,3 +8,6 @@ text in sub header
 ##
 local development
 1. open index.html in browser
+
+## 
+seeing if I still remember git commands
